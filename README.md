@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mj-ansari
+- 👋 Hi, I’m Jaid Ansari
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning new technologies related to python and javascript
 - 📫 How to reach me https://www.linkedin.com/in/jaid-ansari/
